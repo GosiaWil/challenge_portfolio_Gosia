@@ -9,7 +9,7 @@
 
 ## Subtask 4
 ### Aplikacja https://scouts-test.futbolkolektyw.pl/pl 
-Zaczynamy wyzwanie od pracy na aplikacji służącej do 
+Zaczynamy challenge od pracy nad aplikacją, która zawiera wskaźniki zawodników piłki nożnej oraz informacje o ich osiągnięciach. Aplikacja dostarcza także statystyki dotyczące meczów oraz umożliwia tworzenie raportów z nich. Aplikacja ma być pomocna przede wszystkim skautom piłkarskim w zarządzaniu graxzami, meczami i w tworzeniu raportów.
 
  <b> Podstawowe funkcje: </b>
 
@@ -70,7 +70,11 @@ Zaczynamy wyzwanie od pracy na aplikacji służącej do
  </tr>
   <tr>
  <td> Brak możliwości dodania raportu, po kliknięciu w przycisk <strong> DODAJ RAPORT </strong> w zakładce <strong> RAPORTY </strong> strona przenosi nas do zakładki <strong> MECZE </strong> </td>
-  <td> Po kliknięciu w przycisk <strong> DODAJ RAPORT </strong> w zakładce <strong> RAPORTY </strong> pojawia się formularz do wypełnienia raportu </td>
+  <td> Po kliknięciu w przycisk <strong> DODAJ RAPORT </strong> w zakładce <strong> RAPORTY </strong> pojawia się możliwpść wybrania meczu z którego zostanie wykonany raport </td>
+ </tr>
+  <tr>
+ <td> Przy dodawaniu raportu panel do edycji tekstowej nie działa poprawnie </td>
+  <td> Możliwość sprawnej edycji i tworzenia  treści raportów </td>
  </tr>
  
   <tr>
