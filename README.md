@@ -1,15 +1,40 @@
+## Spis treści ##
+ <a href="#Etykieta1"> Task 1 </a> <br>
+ <a href="#Etykieta2"> Subtask 1</a> <br>
+ <a href="#Etykieta3"> Subtask 3</a> <br>
+<a href="#Etykieta4"> Subtask 4 </a> <br>
+<a href="#Etykieta5"> Podstawowe funkcjonalności </a> <br>
+<a href="#Etykieta6"> Ocena intuicyjności </a> <br>
+<a href="#Etykieta7"> Interfejs </a> <br>
+<a href="#Etykieta8"> Błędy </a>
+
+
+
+<a id="Etykieta1"></a>
+
 # Task 1
+
+<a id="Etykieta2"></a>
+
 ## Subtask 1
 9 punktów 
+
+<a id="Etykieta3"></a>
+
 ## Subtask 3
 
 <p align="justify">Jestem Gosia. Powodem mojego zgłoszenia do projektu była ogromna chęć wykorzystania w praktyce nabytej w ostatnim czasie wiedzy o testowaniu oprogramowania. Termin dla mnie trochę szalony, bo w tym tygodniu wróciłam właśnie z urlopu macierzyńskiego (mówiąc w skrócie), który trwał ponad 3 lata...  😁).</p>
 
 <p align="justify">Logistyka obowiązków domowych, pracy oraz projektu <b><i>Dare IT</b></i> jest prawdziwym wyzwaniem dla mnie, ale jestem pełna dobrej energii i wierzę, że uda mi się ukończyć zadania. Czuję gdzieś w kościach, że testowanie jest dla mnie i bardzo chcę to robić zawodowo. Taki też jest mój cel- znaleźć pracę w charakterze testera manualnego. Natomiast challenge na pewno da mi dużo możliwości wykorzystania wiedzy z książek i kursów w praktyce i zmotywuje do regularnej pracy nad portfolio. </p>
 
+<a id="Etykieta4"></a>
+
 ## Subtask 4
+
 ### Aplikacja https://scouts-test.futbolkolektyw.pl/pl 
 <p align="justify"> Zaczynamy challenge od pracy nad aplikacją, która zawiera wskaźniki zawodników piłki nożnej oraz informacje o ich osiągnięciach. Aplikacja dostarcza także statystyki dotyczące meczów oraz umożliwia tworzenie raportów z nich. Aplikacja ma być pomocna przede wszystkim skautom piłkarskim w zarządzaniu graczami, meczami i w tworzeniu raportów.</p>
+
+<a id="Etykieta5"></a>
 
  <b> Podstawowe funkcjonalności: </b>
 
@@ -27,14 +52,20 @@
  
  </ul> 
  
+ <a id="Etykieta6"></a>
+ 
   <b> Ocena intuicyjności aplikacji </b>
 <p align="justify"> Większosc funkcjonalności jest intuicyjna, dodawanie meczów wymaga kliknięcia znaku <strong> + </strong> z podpisem <strong> dodawanie meczu </strong>, dodawanie gracza z kolei odbywa się przez przycisk <strong> Dodaj gracza </strong>,co uważam jest jednoznaczne i proste do zrozumienia. Przyciski <strong> zaloguj/wyloguj </strong> są zlokalizowane tak, iż nietrudno je odnaleźć.  
 Jednak według mnie wiele rzeczy wymaga tu poprawy. Przede wszystkim główne dane i funkcjonalności w tym przypadku powinny znaleźć się w głównym menu, po lewej stronie. Niestety po wejściu na stronę jedyne co mamy do wyboru z menu to zakładkę <strong> Gracze </strong> z możliwością przejrzenia danych, po wejściu w nią nie jesteśmy juz w stanie dodać zawodnika, co byłoby bardziej intuicyjne i pożądane. Zamiast tego przycisk <strong> dodaj gracza </strong> zlokalizowany jest na głównej stronie pod <strong> Linkami pomocniczymi </strong>. Przy tak ograniczonej grafice i zawartości strony głównej aktualnie jestesmy w stanie ten odnośnik dojrzeć, jednak przy większym zagęszczeniu obiektów, mógłby być to duży problem. 
 W menu nie ma możliwości wyboru zakładki <strong> mecze </strong> <strong> raporty </strong>y, jest to dopiero możliwe po kliknięciu w linki zlokalizowane pod <strong> Aktywnościami </strong> na stronie głównej. </p>
 
+ <a id="Etykieta7"></a>
+
 <b> Interfejs </b>
 
 <p align="justify"> Interfejs aplikacji jest dość prosty i oszczędny, co jest ok zważywszy na to, iż aplikacja ma służyć jako panel do zarządzania danymi. Co dla mnie jest przydatne to ikony przy najważniejszych funkcjonalnościach, są proste ale dzięki temu intuicyjne. Jednak poza tym rozmieszczenie linków na stronie jest dość przypadkowe, menu na stronie głównej jest niekompletne. Wiele rzeczy można by przenieść w miejsce menu, a troszkę "posprzątać" na środku;) Przycisk <strong >wyloguj </strong> oraz ze zmianą języka mogłyby powędrować do prawego górnego rogu, niekoniecznie być w głównym menu, gdyż zwłaszcza zmiana języka jest funkcjonalnością używaną raczej raz na daną sesję. Podobnie jest z przyciskiem <strong> wyloguj </strong>. </p>
+
+<a id="Etykieta8"></a>
 
   <b> Błędy </b>
   
