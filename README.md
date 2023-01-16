@@ -1,12 +1,13 @@
 ## Spis treści ##
- <a href="#Etykieta1"> Task 1 </a> <br>
- <a href="#Etykieta2"> Subtask 1</a> <br>
- <a href="#Etykieta3"> Subtask 3</a> <br>
-<a href="#Etykieta4"> Subtask 4 </a> <br>
-<a href="#Etykieta5"> Podstawowe funkcjonalności </a> <br>
-<a href="#Etykieta6"> Ocena intuicyjności </a> <br>
-<a href="#Etykieta7"> Interfejs </a> <br>
-<a href="#Etykieta8"> Błędy </a>
+
+<a href="#Etykieta1"> Task 1 </a> <br>
+ &emsp; <a href="#Etykieta2"> Subtask 1</a> <br> 
+ &emsp; <a href="#Etykieta3"> Subtask 3</a> <br>
+ &emsp;<a href="#Etykieta4"> Subtask 4 </a> <br>
+ &emsp; &emsp;<a href="#Etykieta5"> Podstawowe funkcjonalności </a> <br>
+ &emsp; &emsp; <a href="#Etykieta6"> Ocena intuicyjności aplikacji  </a>  <br>
+ &emsp; &emsp;<a href="#Etykieta7"> Interfejs </a> <br>
+ &emsp; &emsp;<a href="#Etykieta8"> Błędy </a>
 
 
 
