@@ -143,3 +143,16 @@ W menu nie ma możliwości wyboru zakładki <strong> mecze </strong> <strong> ra
   <td> Formularz wymaga poprawnych wartości danych, zgodnych z przyjętą logiką oraz ułatwia użytkownikowi wprowadzanie dodatkowych informacji np.linków </td>
  </tr>
  
+   <tr>
+ <td> Aplikacja nie jest responsywna, podczas wyświetlania na urządzeniu mobilnym (np Samsung Glaxy s8) listy wyświetlają się w nieprawidłowy sposób , ciężko przegląda się wszystkie dane  </td>
+  <td> Aplikacja dopasowana jest zarówno do ekranu komputera jak i ekranu urządzeń mobilnych </td>
+ </tr>
+ </table>
+ 
+ 
+ 
+ ## Subtask 5 
+ 
+ 
+ Utworzono konto Jira, projekt <b> <i> challenge_portfolio_projekt </i> </b>
+
