@@ -8,6 +8,12 @@
  &emsp; &emsp; <a href="#Etykieta6"> Ocena intuicyjności aplikacji  </a>  <br>
  &emsp; &emsp;<a href="#Etykieta7"> Interfejs </a> <br>
  &emsp; &emsp;<a href="#Etykieta8"> Błędy </a>
+ 
+ <a href="#Etykieta9"> Task 2 </a> <br>
+  &emsp; <a href="#Etykieta10"> Subtask 1</a> <br> 
+   &emsp; <a href="#Etykieta11"> Subtask 2</a> <br> 
+    &emsp; <a href="#Etykieta12"> Subtask 3</a> <br> 
+ 
 
 
 
@@ -155,4 +161,24 @@ W menu nie ma możliwości wyboru zakładki <strong> mecze </strong> <strong> ra
  
  
  Utworzono konto Jira, projekt <b> <i> challenge_portfolio_projekt </i> </b>
+ 
+ <a id="Etykieta9"></a>
+ 
+ # Task 2 
+ 
+  <a id="Etykieta10"></a>
+ 
+ ## Subtask 1 Pisanie przypadków testowych na podstawie User Story.
+ 
+  <a id="Etykieta11"></a>
+  
+  ## Subtask 2 Pisanie przypadków testowych na podstawie “własnych doświadczeń.
+  
+   <a id="Etykieta12"></a>
+   
+   ## Subtask 3 Po co piszemy test case'y? 
+   
+ 
+ 
+ 
 
