@@ -170,15 +170,23 @@ W menu nie ma możliwości wyboru zakładki <strong> mecze </strong> <strong> ra
  
  ## Subtask 1 Pisanie przypadków testowych na podstawie User Story.
  
+Tutaj znajduje się rozwiazanie subtaska 1: https://docs.google.com/document/d/1KLlXG0RL4-T7nHTPo6zspLucS6xVG6TfHPNA07nkMxI/edit?usp=share_link
+ 
   <a id="Etykieta11"></a>
   
-  ## Subtask 2 Pisanie przypadków testowych na podstawie “własnych doświadczeń.
+  ## Subtask 2 Pisanie przypadków testowych na podstawie “własnych doświadczeń".
+  
+  Tutaj znajduje się rozwiązanie subtaska 2: https://docs.google.com/document/d/1CNPNyylv6ZaZmLQT4OpxHFPM2xqZSXFhQAraRhrHy-g/edit?usp=share_link
   
    <a id="Etykieta12"></a>
    
    ## Subtask 3 Po co piszemy test case'y? 
-   
- 
+Myślę, że przede wszystkim po to żeby nasza praca nas testami byłą gdzieś faktycznie odnotowana i miarodajna. Jednym słowem zapisywanie tego udawadnia, iż faktycznie testowaliśmy aplikację.   
+
+Pisanie test case'ów umożlwiia także porządkowanie przeprowadzanych testów. Spisanie ich i ułożenie pozwaln nam NA ujęcie większej liczby zdarzeń. 
+
+Test case'y są niezbędne przy ponownym uruchamianiu tych samych testów podczas retestów lub testów regresji.Taka dokumentacja umożliwia nam odtworzenie całej procedury krok po kroku. 
+  
  
  
 
