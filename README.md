@@ -181,11 +181,11 @@ Tutaj znajduje się rozwiazanie subtaska 1: https://docs.google.com/document/d/1
    <a id="Etykieta12"></a>
    
    ## Subtask 3 Po co piszemy test case'y? 
-Myślę, że przede wszystkim po to żeby nasza praca nas testami byłą gdzieś faktycznie odnotowana i miarodajna. Jednym słowem zapisywanie tego udawadnia, iż faktycznie testowaliśmy aplikację.   
+Pierwszy nasuwajacy się powód pisania test case'ów jest dość banalny i oczywisty, ale jednocześnie myślę, że warto go odnotować, a mianowicie pisze się je po to żeby nasza praca nas testami była gdzieś faktycznie odnotowana i miarodajna. Jednym słowem zapisywanie tego udawadnia, iż faktycznie testowaliśmy aplikację.   
 
-Pisanie test case'ów umożlwiia także porządkowanie przeprowadzanych testów. Spisanie ich i ułożenie pozwaln nam NA ujęcie większej liczby zdarzeń. 
+Pisanie test case'ów umożliwia także porządkowanie przeprowadzanych testów. Spisanie ich i ułożenie pozwala nam na ujęcie większej liczby zdarzeń. W przypadku tworzenia ich na podstawie specyfikacji pozwala nam podzielić ją na mniejsze części przez co wyodrębnić różne funkcjonalności. 
 
-Test case'y są niezbędne przy ponownym uruchamianiu tych samych testów podczas retestów lub testów regresji.Taka dokumentacja umożliwia nam odtworzenie całej procedury krok po kroku. 
+Test case'y są niezbędne również przy ponownym uruchamianiu tych samych testów podczas retestów lub testów regresji.Taka dokumentacja umożliwia nam odtworzenie całej procedury krok po kroku. 
   
  
  
