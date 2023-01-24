@@ -174,9 +174,9 @@ Tutaj znajduje się rozwiazanie subtaska 1: https://docs.google.com/document/d/1
  
   <a id="Etykieta11"></a>
   
-  ## Subtask 2 Pisanie przypadków testowych na podstawie “własnych doświadczeń".
+  ## Subtask 2 Pisanie przypadków testowych na podstawie "własnych doświadczeń".
   
-  Tutaj znajduje się rozwiązanie subtaska 2: https://docs.google.com/document/d/1CNPNyylv6ZaZmLQT4OpxHFPM2xqZSXFhQAraRhrHy-g/edit?usp=share_link
+  Tutaj znajduje się rozwiązanie subtaska 2: https://docs.google.com/document/d/1KLlXG0RL4-T7nHTPo6zspLucS6xVG6TfHPNA07nkMxI/edit?usp=share_link
   
    <a id="Etykieta12"></a>
    
