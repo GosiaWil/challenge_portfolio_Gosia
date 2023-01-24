@@ -176,12 +176,12 @@ Tutaj znajduje się rozwiazanie subtaska 1: https://docs.google.com/document/d/1
   
   ## Subtask 2 Pisanie przypadków testowych na podstawie "własnych doświadczeń"
   
-  Tutaj znajduje się rozwiązanie subtaska 2: https://docs.google.com/document/d/1KLlXG0RL4-T7nHTPo6zspLucS6xVG6TfHPNA07nkMxI/edit?usp=share_link
+  Tutaj znajduje się rozwiązanie subtaska 2: https://docs.google.com/document/d/1CNPNyylv6ZaZmLQT4OpxHFPM2xqZSXFhQAraRhrHy-g/edit?usp=share_link
   
    <a id="Etykieta12"></a>
    
    ## Subtask 3 Po co piszemy test case'y? 
-Pierwszy nasuwajacy się powód pisania test case'ów jest dość banalny i oczywisty, ale jednocześnie myślę, że warto go odnotować, a mianowicie pisze się je po to żeby nasza praca nas testami była gdzieś faktycznie odnotowana i miarodajna. Jednym słowem zapisywanie tego udawadnia, iż faktycznie testowaliśmy aplikację.   
+Pierwszy nasuwający się powód pisania test case'ów jest dość banalny i oczywisty, ale jednocześnie myślę, że warto go odnotować, a mianowicie pisze się je po to żeby nasza praca nad testami była gdzieś  spisana i miarodajna. Jednym słowem zapisywanie tego udawadnia, iż faktycznie testowaliśmy aplikację.   
 
 Pisanie test case'ów umożliwia także porządkowanie przeprowadzanych testów. Spisanie ich i ułożenie pozwala nam na ujęcie większej liczby zdarzeń. W przypadku tworzenia ich na podstawie specyfikacji pozwala nam podzielić ją na mniejsze części przez co wyodrębnić różne funkcjonalności. 
 
