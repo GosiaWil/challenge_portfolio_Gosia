@@ -10,9 +10,9 @@
  &emsp; &emsp;<a href="#Etykieta8"> Błędy </a>
  
  <a href="#Etykieta9"> Task 2 </a> <br>
-  &emsp; <a href="#Etykieta10"> Subtask 1</a> <br> 
-   &emsp; <a href="#Etykieta11"> Subtask 2</a> <br> 
-    &emsp; <a href="#Etykieta12"> Subtask 3</a> <br> 
+  &emsp; <a href="#Etykieta10"> Subtask 1 Pisanie przypadków testowych na podstawie User Story.</a> <br> 
+   &emsp; <a href="#Etykieta11"> Subtask 2 Pisanie przypadków testowych na podstawie "własnych doświadczeń"</a> <br> 
+    &emsp; <a href="#Etykieta12"> Subtask 3 Po co piszemy test case'y?</a> <br> 
  
 
 
@@ -168,13 +168,13 @@ W menu nie ma możliwości wyboru zakładki <strong> mecze </strong> <strong> ra
  
   <a id="Etykieta10"></a>
  
- ## Subtask 1 Pisanie przypadków testowych na podstawie User Story.
+ ## Subtask 1 Pisanie przypadków testowych na podstawie User Story
  
 Tutaj znajduje się rozwiazanie subtaska 1: https://docs.google.com/document/d/1KLlXG0RL4-T7nHTPo6zspLucS6xVG6TfHPNA07nkMxI/edit?usp=share_link
  
   <a id="Etykieta11"></a>
   
-  ## Subtask 2 Pisanie przypadków testowych na podstawie "własnych doświadczeń".
+  ## Subtask 2 Pisanie przypadków testowych na podstawie "własnych doświadczeń"
   
   Tutaj znajduje się rozwiązanie subtaska 2: https://docs.google.com/document/d/1KLlXG0RL4-T7nHTPo6zspLucS6xVG6TfHPNA07nkMxI/edit?usp=share_link
   
