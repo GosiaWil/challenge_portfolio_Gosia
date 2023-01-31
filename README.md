@@ -187,6 +187,17 @@ Pisanie test case'ów umożliwia także porządkowanie przeprowadzanych testów.
 
 Test case'y są niezbędne również przy ponownym uruchamianiu tych samych testów podczas retestów lub testów regresji.Taka dokumentacja umożliwia nam odtworzenie całej procedury krok po kroku. 
   
+ # Task 3 
  
- 
+## Subtask 1 Błędy 
+
+Tutaj znajduje się rozwiązanie Subtaska 1: https://docs.google.com/document/d/1yq9rAtbZgUXVoGIKxlJPmgsEpYLMLILN7pMn4imQKAw/edit?usp=share_link
+
+## Subtask 2
+
+Tutaj znajduje się rozwiązanie Subtaska 2: https://docs.google.com/document/d/1CNPNyylv6ZaZmLQT4OpxHFPM2xqZSXFhQAraRhrHy-g/edit?usp=share_link
+
+## Subtask 3 Raport z wykonanych testów
+
+Tutaj znajduje się rozwiązanie Subtaska 3: https://docs.google.com/document/d/1jyvqzudCj4YHpdPT1yYH_P7ZZTMGvaVCmLd1Vu1nYCI/edit?usp=share_link
 
