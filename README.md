@@ -13,6 +13,11 @@
   &emsp; <a href="#Etykieta10"> Subtask 1 Pisanie przypadków testowych na podstawie User Story.</a> <br> 
    &emsp; <a href="#Etykieta11"> Subtask 2 Pisanie przypadków testowych na podstawie "własnych doświadczeń"</a> <br> 
     &emsp; <a href="#Etykieta12"> Subtask 3 Po co piszemy test case'y?</a> <br> 
+    
+  <a href="#Etykieta13"> Task 3 </a> <br>
+  &emsp; <a href="#Etykieta14"> Subtask 1 Utworzenie formatki do zgłaszania błędów systemu</a> <br> 
+   &emsp; <a href="#Etykieta15"> Subtask 2 Testowanie według planów testów i raportowanie błędów</a> <br> 
+    &emsp; <a href="#Etykieta16"> Subtask 3 Raport z wykonanych testów </a> <br> 
  
 
 
@@ -186,16 +191,24 @@ Pierwszy nasuwający się powód pisania test case'ów jest dość banalny i ocz
 Pisanie test case'ów umożliwia także porządkowanie przeprowadzanych testów. Spisanie ich i ułożenie pozwala nam na ujęcie większej liczby zdarzeń. W przypadku tworzenia ich na podstawie specyfikacji pozwala nam podzielić ją na mniejsze części przez co wyodrębnić różne funkcjonalności. 
 
 Test case'y są niezbędne również przy ponownym uruchamianiu tych samych testów podczas retestów lub testów regresji.Taka dokumentacja umożliwia nam odtworzenie całej procedury krok po kroku. 
+
+  <a id="Etykieta13"></a>
   
  # Task 3 
  
-## Subtask 1 Błędy 
+ <a id="Etykieta14"></a>
+ 
+## Subtask 1 Utworzenie formatki do zgłaszania błędów systemu 
 
 Tutaj znajduje się rozwiązanie Subtaska 1: https://docs.google.com/document/d/1yq9rAtbZgUXVoGIKxlJPmgsEpYLMLILN7pMn4imQKAw/edit?usp=share_link
 
-## Subtask 2
+ <a id="Etykieta15"></a>
+ 
+## Subtask 2 Testowanie według planów testów i raportowanie błędów
 
 Tutaj znajduje się rozwiązanie Subtaska 2: https://docs.google.com/document/d/1CNPNyylv6ZaZmLQT4OpxHFPM2xqZSXFhQAraRhrHy-g/edit?usp=share_link
+
+<a id="Etykieta16"></a>
 
 ## Subtask 3 Raport z wykonanych testów
 
