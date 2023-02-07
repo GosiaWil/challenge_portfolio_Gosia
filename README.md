@@ -238,3 +238,9 @@ Tutaj znajduje się rozwiązanie Subtaska 2: https://docs.google.com/document/d/
 
 ## Subtask 3 Do czego służy ta aplikacja? 
 
+<b> Do czego służy ta aplikacja? Jaki jest cel tej aplikacji? </b>
+<b> Kto ma być użytkownikiem końcowym aplikacji? </b>
+<b> Czy według Ciebie aplikacja jest user friendly? </b>
+<b> Jak byś usprawnił aplikację? Co byś w niej poprawił. Czy masz jakiś pomysł na dodatkową funkcjonalność? </b>
+<b> Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej, a natywnej? </b>
+
