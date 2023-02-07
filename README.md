@@ -19,7 +19,11 @@
    &emsp; <a href="#Etykieta15"> Subtask 2 Testowanie według planów testów i raportowanie błędów</a> <br> 
     &emsp; <a href="#Etykieta16"> Subtask 3 Raport z wykonanych testów </a> <br> 
  
-
+  <a href="#Etykieta17"> Task 4 </a> <br>
+  &emsp; <a href="#Etykieta18"> Subtask 1 Utworzenie formatki do zgłaszania błędów systemu </a> <br> 
+     &emsp; <a href="#Etykieta19"> Subtask 2 Testowanie eksploracyjne i raportowanie błędów </a> <br> 
+   &emsp; <a href="#Etykieta20"> Subtask 3 Do czego służy ta aplikacja?</a> <br> 
+   
 
 
 <a id="Etykieta1"></a>
@@ -213,4 +217,24 @@ Tutaj znajduje się rozwiązanie Subtaska 2: https://docs.google.com/document/d/
 ## Subtask 3 Raport z wykonanych testów
 
 Tutaj znajduje się rozwiązanie Subtaska 3: https://docs.google.com/document/d/1jyvqzudCj4YHpdPT1yYH_P7ZZTMGvaVCmLd1Vu1nYCI/edit?usp=share_link
+
+ <a id="Etykieta17"></a>
+ 
+# Task 4
+
+<a id="Etykieta18"></a>
+
+## Subtask 1 Utworzenie formatki do zgłaszania błędów systemu
+
+Tutaj znajduje się rozwiązanie Subtaska 2: https://docs.google.com/document/d/1255pSjkzYpxdSzenz_hgeqC_4AqR_OJx5cOfc4J1LSA/edit?usp=share_link 
+
+<a id="Etykieta19"></a>
+
+## Subtask 2 Testowanie eksploracyjne i raportowanie błędów
+
+Tutaj znajduje się rozwiązanie Subtaska 2: https://docs.google.com/document/d/1255pSjkzYpxdSzenz_hgeqC_4AqR_OJx5cOfc4J1LSA/edit?usp=share_link 
+
+<a id="Etykieta20"></a>
+
+## Subtask 3 Do czego służy ta aplikacja? 
 
