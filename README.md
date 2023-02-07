@@ -238,9 +238,23 @@ Tutaj znajduje się rozwiązanie Subtaska 2: https://docs.google.com/document/d/
 
 ## Subtask 3 Do czego służy ta aplikacja? 
 
-<b> Do czego służy ta aplikacja? Jaki jest cel tej aplikacji? </b>
+<b> Do czego służy ta aplikacja? Jaki jest cel tej aplikacji? </b>  
+
+Aplikacja Olx służy do wyszukiwania ogłoszeń różnego rodzaju, a także do ich zamieszczania. Celem aplikacji jest stworzenie prostej w obsłudze, łatwodostępnej internetowej tablicy ogłoszeń o zasięgu całopolskim.
+
 <b> Kto ma być użytkownikiem końcowym aplikacji? </b>
+
+Końcowym użytkownikiem ma być przysłowiowy Kowalski, który ma ochotę coś kupić, sprzedać lub wymienić. Czasami i roboty potrzebuje, więc "nogi" niosą go do tablicy ogłoszeń, gdzie w prosty i BEZPŁATNY sposób wyszuka ogłoszenia, a nawet stworzy swoje CV. 
+
 <b> Czy według Ciebie aplikacja jest user friendly? </b>
-<b> Jak byś usprawnił aplikację? Co byś w niej poprawił. Czy masz jakiś pomysł na dodatkową funkcjonalność? </b>
+
+Sądzę, że aplikacja Olx jest user friendly, jej główny cel jest jasny i klarowny dla użytkownika. Nietrudno przeciętnemu użytkownikowi skorzystać z aplikacji. Obsługa jest intuicyjna, rozmieszczenie przycisków wygodne. 
+
+<b> Jak byś usprawnił aplikację? Co byś w niej poprawiła. Czy masz jakiś pomysł na dodatkową funkcjonalność? </b>
+
+Po pierwsze naprawiłabym wszystkie moje bugi:D Później natomiast zajęłabym się rozmieszczeniem kategorii. Z uwagi na to, iż wyszukiwanie ogłoszeń to główna fukcjonalność aplikacji, postarałabym się o jak najdogodniejsze rozmieszczenie funcji pomocniczych. Według mnie przewijanie ikon z kategoriami nie jest do końca wygodne, stąd raczej zaproponowałabym tu możliwość rozłożenia ikon kategorii na większą powierzchnię, kosztem ostatnio oglądanych ogłoszeń, które mogłyby zajmować drugorzene miejsce. 
+
 <b> Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej, a natywnej? </b>
+
+Testowanie aplikacji natywnej jest mniej komfortowe, znacznie mniej mamy narzędzi do jej penetracji. Inne stawiamy jej także wymagania, tutaj testowaniu będzie na pewno podlegać jej szybkość i wygoda w użytkowaniu. 
 
