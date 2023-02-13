@@ -275,7 +275,7 @@ Testowanie aplikacji natywnej jest mniej komfortowe, znacznie mniej mamy narzęd
 
 Poznałam następujące zapytania/operatory: 
  <ul>
- <li> Wyświetlenia podstawowe np: SELECT ... FROM </li>
+ <li> Zapytania podstawowe SELECT * FROM </li>
  <li> Sortowanie ORDER BY  </li>
  <li> Sortowanie ORDER BY rosnąco DESC oraz malejąco ASC  </li>
  <li> Filtrowanie danych z warunkiem logicznym WHERE (condition) </li>
