@@ -275,10 +275,22 @@ Testowanie aplikacji natywnej jest mniej komfortowe, znacznie mniej mamy narzęd
 
 Poznałam następujące zapytania/operatory: 
  <ul>
- <li>SELECT ... FROM </li>
- <li> ORDER BY </li>
- <li> SELECT .. .FROM ... WHERE (condition) </li>
-    <li>Skellige</li>
+ <li> Wyświetlenia podstawowe np: SELECT ... FROM </li>
+ <li> Sortowanie ORDER BY  </li>
+ <li> Sortowanie ORDER BY rosnąco DESC oraz malejąco ASC  </li>
+ <li> Filtrowanie danych z warunkiem logicznym WHERE (condition) </li>
+ <li> Operatory porównania, np. WHERE = 5; WHERE < 5 </li>
+   <li> Operator BETWEEN  </li>
+   <li> Operator IN </li>
+ <li> Operator LIKE np.  LIKE "DA%" gdzie % to dowolna ilość znaków </li>
+   <li> Operator IS NULL </li>
+  <li> Operator OR i AND </li>
+ <li> Operator IS NULL </li>
+   <LI> Grupowanie danych GROUP BY </li>
+ <li> Dodawanie danych do tabeli : INSERT INTO SELECT </li>
+ <li> Podmienianie nazw danych w tabeli tzw. ALIAS czyli operator AS </li>
+ <li> Funkcje: GETDATE , UPPER, LOWER, DATEDIFF, DAY, HOUR, YEAR, COUNT, SUM, MIN, MAX </li> 
+ <li> Łączenie danych z  dwóch tabel na podstawie wybranych danych: INNER JOIN </li>
  </ul> 
 
 
