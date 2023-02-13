@@ -1,13 +1,14 @@
 ## Spis treści ##
 
 <a href="#Etykieta1"> Task 1 Testy eksploracyjne</a> <br>
- &emsp; <a href="#Etykieta2"> Subtask 1</a> <br> 
- &emsp; <a href="#Etykieta3"> Subtask 3</a> <br>
- &emsp;<a href="#Etykieta4"> Subtask 4 </a> <br>
+ &emsp; <a href="#Etykieta2"> Subtask 1 Test wiedzy </a> <br> 
+ &emsp; <a href="#Etykieta3"> Subtask 3 O mnie </a> <br>
+ &emsp;<a href="#Etykieta4"> Subtask 4 Testy eksploracyjne – poznaj aplikację </a> <br>
  &emsp; &emsp;<a href="#Etykieta5"> Podstawowe funkcjonalności </a> <br>
  &emsp; &emsp; <a href="#Etykieta6"> Ocena intuicyjności aplikacji  </a>  <br>
  &emsp; &emsp;<a href="#Etykieta7"> Interfejs </a> <br>
- &emsp; &emsp;<a href="#Etykieta8"> Błędy </a>
+ &emsp; &emsp;<a href="#Etykieta8"> Błędy </a>  
+ &emsp;<a href="#Etykieta25"> Subtask 5 Jira </a> <br>
  
  <a href="#Etykieta9"> Task 2 Przypadki testowe (Test cases) </a> <br>
   &emsp; <a href="#Etykieta10"> Subtask 1 Pisanie przypadków testowych na podstawie User Story.</a> <br> 
@@ -37,12 +38,12 @@
 
 <a id="Etykieta2"></a>
 
-## Subtask 1
+## Subtask 1 Test wiedzy
 9 punktów 
 
 <a id="Etykieta3"></a>
 
-## Subtask 3
+## Subtask 3 O mnie 
 
 <p align="justify">Jestem Gosia. Powodem mojego zgłoszenia do projektu była ogromna chęć wykorzystania w praktyce nabytej w ostatnim czasie wiedzy o testowaniu oprogramowania. Termin dla mnie trochę szalony, bo w tym tygodniu wróciłam właśnie z urlopu macierzyńskiego (mówiąc w skrócie), który trwał ponad 3 lata...  😁).</p>
 
@@ -50,7 +51,7 @@
 
 <a id="Etykieta4"></a>
 
-## Subtask 4
+## Subtask 4 Testy eksploracyjne – poznaj aplikację
 
 ### Aplikacja https://scouts-test.futbolkolektyw.pl/pl 
 <p align="justify"> Zaczynamy challenge od pracy nad aplikacją, która zawiera wskaźniki zawodników piłki nożnej oraz informacje o ich osiągnięciach. Aplikacja dostarcza także statystyki dotyczące meczów oraz umożliwia tworzenie raportów z nich. Aplikacja ma być pomocna przede wszystkim skautom piłkarskim w zarządzaniu graczami, meczami i w tworzeniu raportów.</p>
@@ -170,8 +171,8 @@ W menu nie ma możliwości wyboru zakładki <strong> mecze </strong> <strong> ra
  </table>
  
  
- 
- ## Subtask 5 
+ <a id="Etykieta25"></a>
+ ## Subtask 5 Jira
  
  
  Utworzono konto Jira, projekt <b> <i> challenge_portfolio_projekt </i> </b>
@@ -272,10 +273,21 @@ Testowanie aplikacji natywnej jest mniej komfortowe, znacznie mniej mamy narzęd
 
 ## Subtask 1 Krótki kurs podstaw SQL
 
+Poznałam następujące zapytania/operatory: 
+ <ul>
+ <li>SELECT ... FROM </li>
+ <li> ORDER BY </li>
+ <li> SELECT .. .FROM ... WHERE (condition) </li>
+    <li>Skellige</li>
+ </ul> 
+
+
 <a id="Etykieta23"></a>
 
 
 ## Subtask 2 Konfiguracja środowiska i wgranie bazy danych
+
+<p>DONE&#128519;</p>
 
 <a id="Etykieta24"></a>
 
