@@ -1,6 +1,6 @@
 ## Spis treści ##
 
-<a href="#Etykieta1"> Task 1 </a> <br>
+<a href="#Etykieta1"> Task 1 Testy eksploracyjne</a> <br>
  &emsp; <a href="#Etykieta2"> Subtask 1</a> <br> 
  &emsp; <a href="#Etykieta3"> Subtask 3</a> <br>
  &emsp;<a href="#Etykieta4"> Subtask 4 </a> <br>
@@ -9,26 +9,31 @@
  &emsp; &emsp;<a href="#Etykieta7"> Interfejs </a> <br>
  &emsp; &emsp;<a href="#Etykieta8"> Błędy </a>
  
- <a href="#Etykieta9"> Task 2 </a> <br>
+ <a href="#Etykieta9"> Task 2 Przypadki testowe (Test cases) </a> <br>
   &emsp; <a href="#Etykieta10"> Subtask 1 Pisanie przypadków testowych na podstawie User Story.</a> <br> 
    &emsp; <a href="#Etykieta11"> Subtask 2 Pisanie przypadków testowych na podstawie "własnych doświadczeń"</a> <br> 
     &emsp; <a href="#Etykieta12"> Subtask 3 Po co piszemy test case'y?</a> <br> 
     
-  <a href="#Etykieta13"> Task 3 </a> <br>
+  <a href="#Etykieta13"> Task 3 Raportowanie błędów </a> <br>
   &emsp; <a href="#Etykieta14"> Subtask 1 Utworzenie formatki do zgłaszania błędów systemu</a> <br> 
    &emsp; <a href="#Etykieta15"> Subtask 2 Testowanie według planów testów i raportowanie błędów</a> <br> 
     &emsp; <a href="#Etykieta16"> Subtask 3 Raport z wykonanych testów </a> <br> 
  
-  <a href="#Etykieta17"> Task 4 </a> <br>
-  &emsp; <a href="#Etykieta18"> Subtask 1 Utworzenie formatki do zgłaszania błędów systemu </a> <br> 
+  <a href="#Etykieta17"> Task 4 Testowanie aplikacji mobilnych </a> <br>
+    &emsp; <a href="#Etykieta18"> Subtask 1 Utworzenie formatki do zgłaszania błędów systemu </a> <br> 
      &emsp; <a href="#Etykieta19"> Subtask 2 Testowanie eksploracyjne i raportowanie błędów </a> <br> 
-   &emsp; <a href="#Etykieta20"> Subtask 3 Do czego służy ta aplikacja?</a> <br> 
+     &emsp; <a href="#Etykieta20"> Subtask 3 Do czego służy ta aplikacja?</a> <br> 
    
+   <a href="#Etykieta21"> Task 5 SQL part 1 </a> <br>
+     &emsp; <a href="#Etykieta22"> Subtask 1 Krótki kurs podstaw SQL </a> <br> 
+     &emsp; <a href="#Etykieta23"> Subtask 2 Konfiguracja środowiska i wgranie bazy danych </a> <br>
+     &emsp; <a href="#Etykieta24"> Subtask 3 Kilka zadań na rozgrzewkę </a> <br> 
 
+   
 
 <a id="Etykieta1"></a>
 
-# Task 1
+# Task 1 Testy eksploracyjne
 
 <a id="Etykieta2"></a>
 
@@ -173,7 +178,7 @@ W menu nie ma możliwości wyboru zakładki <strong> mecze </strong> <strong> ra
  
  <a id="Etykieta9"></a>
  
- # Task 2 
+ # Task 2 Przypadki testowe (Test cases)
  
   <a id="Etykieta10"></a>
  
@@ -198,7 +203,7 @@ Test case'y są niezbędne również przy ponownym uruchamianiu tych samych test
 
   <a id="Etykieta13"></a>
   
- # Task 3 
+ # Task 3 Raportowanie błędów
  
  <a id="Etykieta14"></a>
  
@@ -220,7 +225,7 @@ Tutaj znajduje się rozwiązanie Subtaska 3: https://docs.google.com/document/d/
 
  <a id="Etykieta17"></a>
  
-# Task 4
+# Task 4 Testowanie aplikacji mobilnych
 
 <a id="Etykieta18"></a>
 
@@ -258,9 +263,23 @@ Po pierwsze naprawiłabym wszystkie moje bugi:D Później natomiast zajęłabym 
 
 Testowanie aplikacji natywnej jest mniej komfortowe, znacznie mniej mamy narzędzi do jej penetracji. Inne stawiamy jej także wymagania, tutaj testowaniu będzie na pewno podlegać jej szybkość i wygoda w użytkowaniu. 
 
-# Task 5 
 
-## Subtask 3 
+<a id="Etykieta21"></a>
+
+# Task 5 SQL part 1
+
+<a id="Etykieta22"></a>
+
+## Subtask 1 Krótki kurs podstaw SQL
+
+<a id="Etykieta23"></a>
+
+
+## Subtask 2 Konfiguracja środowiska i wgranie bazy danych
+
+<a id="Etykieta24"></a>
+
+## Subtask 3 Kilka zadań na rozgrzewkę 
 
 1. Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname.
 
