@@ -10,6 +10,7 @@
  &emsp; &emsp;<a href="#Etykieta8"> Błędy </a>  
  &emsp;<a href="#Etykieta25"> Subtask 5 Jira </a> <br>
  
+ 
  <a href="#Etykieta9"> Task 2 Przypadki testowe (Test cases) </a> <br>
   &emsp; <a href="#Etykieta10"> Subtask 1 Pisanie przypadków testowych na podstawie User Story.</a> <br> 
    &emsp; <a href="#Etykieta11"> Subtask 2 Pisanie przypadków testowych na podstawie "własnych doświadczeń"</a> <br> 
@@ -29,6 +30,12 @@
      &emsp; <a href="#Etykieta22"> Subtask 1 Krótki kurs podstaw SQL </a> <br> 
      &emsp; <a href="#Etykieta23"> Subtask 2 Konfiguracja środowiska i wgranie bazy danych </a> <br>
      &emsp; <a href="#Etykieta24"> Subtask 3 Kilka zadań na rozgrzewkę </a> <br> 
+     
+     
+     <a href="#Etykieta26"> Task 6 SQL part 2</a> <br>
+  &emsp; <a href="#Etykieta27"> Subtask 1 Krótki kurs podstaw SQL </a> <br> 
+ &emsp; <a href="#Etykieta28"> Subtask 2 Test </a> <br>
+ &emsp;<a href="#Etykieta29"> Subtask 3 Tworzymy portfolio </a> <br>
 
    
 
@@ -383,3 +390,73 @@ Poznałam następujące zapytania/operatory:
 ![zad 10](https://user-images.githubusercontent.com/122211606/218285119-c9b14bfb-df9c-4adb-a1b7-f650e5244941.png)
 
 
+<a id="Etykieta25"></a>
+
+# Task 6 SQL part 2
+
+11. Popełniłam błąd wpisując nazwisko Ani Miler – wpisałam Muler. Znajdź i zastosuj funkcję, która poprawi mój karkołomny błąd
+
+<b> UPDATE customers SET surname="Miler" WHERE customer_id="3"; </b>
+
+![zad11_1](https://user-images.githubusercontent.com/122211606/219903272-d80004ec-22bb-464c-85a8-9fe9a7ed70b5.png)
+
+12. Pobrałam za dużo pieniędzy od klienta, który kupił w ostatnim czasie film o id 4. Korzystając z funkcji join sprawdź, jak ma na imię klient i jakiego ma maila. W celu napisania mu wiadomości o pomyłce fantastycznej szefowej.
+
+<b> SELECT customers.name, customers.email FROM customers INNER JOIN sale ON customers.customer_id = sale.customer_id WHERE movie_id = "4"; </b>
+
+![zad 12_1](https://user-images.githubusercontent.com/122211606/219903391-01e7994c-e142-477d-aa3c-f15e0b9f2a56.png)
+
+13. Na pewno zauważył_ś, że sprzedawca zapomniał wpisać emaila klientce Patrycji. Uzupełnij ten brak wpisując: pati@mail.com
+
+<b> UPDATE customers SET email = "pati@mail.com" WHERE customer_id="4"
+
+![zad 13_2](https://user-images.githubusercontent.com/122211606/219903418-39036cdf-b403-4b31-95bf-961f0401e694.png)
+
+
+14. Dla każdego zakupu wyświetl, imię i nazwisko klienta, który dokonał wypożyczenia oraz tytuł wypożyczonego filmu. (wykorzystaj do tego funkcję inner join, zastanów się wcześniej, które tabele Ci się przydadzą do wykonania ćwiczenia).
+
+<b> SELECT customers.name, customers.surname, movies.title FROM customers INNER JOIN sale ON customers.customer_id = sale.customer_id INNER JOIN movies ON sale.movie_id = movies.movie_id; </b> 
+
+![zad 14](https://user-images.githubusercontent.com/122211606/219903466-9147df66-b486-4626-96b0-ba181ce2a67d.png)
+
+15. W celu anonimizacji danych, chcesz stworzyć pseudonimy swoich klientów. - Dodaj kolumnę o nazwie ‘pseudonym’ do tabeli customer,- Wypełnij kolumnę w taki sposób, aby pseudonim stworzył się z dwóch pierwszych liter imienia i ostatniej litery nazwiska. Np. Natalie Pilling → Nag
+
+<b> ALTER TABLE customers ADD COLUMN pseudonym VARCHAR(3) </b>
+
+<b> UPDATE customers SET pseudonym = CONCAT(SUBSTR(name, 1, 2), RIGHT(surname, 1)) </b>
+
+
+![ZAD 15](https://user-images.githubusercontent.com/122211606/219903531-56cdf0db-40dd-4840-b7b8-7220144e4c43.png)
+
+![ZAD 15_1](https://user-images.githubusercontent.com/122211606/219903533-f7c6c185-dcde-425b-be45-9bd052461f62.png)
+
+16. Wyświetl tytuły filmów, które zostały zakupione, wyświetl tabelę w taki sposób, aby tytuły się nie powtarzały.
+
+<b> SELECT DISTINCT title FROM movies INNER JOIN sale ON movies.movie_id = sale.movie_id; </b>
+
+![ZAD 16](https://user-images.githubusercontent.com/122211606/219903540-347e9c25-e014-431b-89cf-da6bc980867b.png)
+
+17. Wyświetl wspólną listę imion wszystkich aktorów i klientów, a wynik uporządkuj alfabetycznie. (Wykorzystaj do tego funkcji UNION)
+
+<b> SELECT name FROM customers UNION SELECT name FROM actors ORDER BY name ASC; </b>
+
+![ZAD 17](https://user-images.githubusercontent.com/122211606/219903549-046d1e0d-0180-4380-b479-0a81f08ddfe3.png)
+
+
+18. Polskę opanowała inflacja i nasz sklepik z filmami również dotknął ten problem. Podnieś cenę wszystkich filmów wyprodukowanych po 2000 roku o 2,5 $ (Pamiętaj, że dolar to domyślna jednostka- nie używaj jej nigdzie).
+
+<b> UPDATE movies SET price = price + 2.5 WHERE year_of_production > 2000; </b>
+
+![ZAD 18](https://user-images.githubusercontent.com/122211606/219903554-2d535ecb-6c10-4ef1-a625-982a0705981e.png)
+
+19. Wyświetl imię i nazwisko aktora o id 4 i tytuł filmu, w którym zagrał
+
+<b> SELECT name, surname, title FROM actors INNER JOIN cast ON actors.actor_id = cast.actor_id INNER JOIN movies ON movies.movie_id = cast.movie_id WHERE actors.actor_id=4; </b>
+
+![zad 19](https://user-images.githubusercontent.com/122211606/219903561-8c3a3dc7-eedf-4eb8-85ed-4465b3e7988f.png)
+
+20. A gdzie nasza HONIA!? Dodaj do tabeli customers nową krotkę, gdzie customer_id = 7, name = Honia, surname = Stuczka-Kucharska, email = honia@mail.com oraz pseudonym = Hoa
+
+<b> INSERT INTO customers (customer_id, name, surname, email, pseudonym) VALUES ("7", "Honia", "Stuczka-Kucharska", "honia@mail.com", "Hoa") </b>
+
+![zad 20](https://user-images.githubusercontent.com/122211606/219903565-5860702a-3784-4645-a4f5-70e8869245a4.png)
