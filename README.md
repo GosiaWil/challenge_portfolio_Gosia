@@ -32,7 +32,7 @@
      &emsp; <a href="#Etykieta24"> Subtask 3 Kilka zadań na rozgrzewkę </a> <br> 
      
      
-     <a href="#Etykieta26"> Task 6 SQL part 2</a> <br>
+<a href="#Etykieta26"> Task 6 SQL part 2</a> <br>
   &emsp; <a href="#Etykieta27"> Subtask 1 Krótki kurs podstaw SQL </a> <br> 
  &emsp; <a href="#Etykieta28"> Subtask 2 Test </a> <br>
  &emsp;<a href="#Etykieta29"> Subtask 3 Tworzymy portfolio </a> <br>
@@ -408,7 +408,7 @@ Poznałam następujące zapytania/operatory:
 
 13. Na pewno zauważył_ś, że sprzedawca zapomniał wpisać emaila klientce Patrycji. Uzupełnij ten brak wpisując: pati@mail.com
 
-<b> UPDATE customers SET email = "pati@mail.com" WHERE customer_id="4"
+  <b> UPDATE customers SET email = "pati@mail.com" WHERE customer_id="4" </b>
 
 ![zad 13_2](https://user-images.githubusercontent.com/122211606/219903418-39036cdf-b403-4b31-95bf-961f0401e694.png)
 
