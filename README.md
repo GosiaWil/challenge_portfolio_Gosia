@@ -390,9 +390,15 @@ Poznałam następujące zapytania/operatory:
 ![zad 10](https://user-images.githubusercontent.com/122211606/218285119-c9b14bfb-df9c-4adb-a1b7-f650e5244941.png)
 
 
-<a id="Etykieta25"></a>
+<a id="Etykieta26"></a>
 
 # Task 6 SQL part 2
+  
+  
+<a id="Etykieta27"></a>
+  
+  
+  ## Subtask 1 Krótki kurs podstaw SQL
 
 11. Popełniłam błąd wpisując nazwisko Ani Miler – wpisałam Muler. Znajdź i zastosuj funkcję, która poprawi mój karkołomny błąd
 
@@ -460,3 +466,11 @@ Poznałam następujące zapytania/operatory:
 <b> INSERT INTO customers (customer_id, name, surname, email, pseudonym) VALUES ("7", "Honia", "Stuczka-Kucharska", "honia@mail.com", "Hoa") </b>
 
 ![zad 20](https://user-images.githubusercontent.com/122211606/219903565-5860702a-3784-4645-a4f5-70e8869245a4.png)
+  
+  <a id="Etykieta28"></a>
+
+  ## Subtask 2 Test 
+  
+  <a id="Etykieta29"></a>
+  
+  ## Subtask 3 Tworzymy portfolio
