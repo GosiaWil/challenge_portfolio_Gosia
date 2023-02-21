@@ -471,6 +471,11 @@ Poznałam następujące zapytania/operatory:
 
   ## Subtask 2 Test 
   
+  ![quiz](https://user-images.githubusercontent.com/122211606/220457386-42e7246c-e5d9-47b4-95a9-07e18c1c0021.png)
+
+  
   <a id="Etykieta29"></a>
   
   ## Subtask 3 Tworzymy portfolio
+  
+  Nowe porfolio: https://github.com/GosiaWil/Malgorzata_Wilczynska_Portfolio.git 
